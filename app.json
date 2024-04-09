@@ -1,8 +1,8 @@
 {
-    "name": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐",
-    "description": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐 is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "🎭ɴᴇᴏᴛʀᴏ𝙭🪐"],
+    "name": "🎭NADEEN🪐",
+    "description": "🎭NADEEN🪐 is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/03f0e013c5ea4055c159c.png",
+    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "🎭NADEEN🪐"],
     "repository": "",
     "website":   "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
     "success_url": "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
@@ -34,12 +34,12 @@
         "MENU_LOGO": {
             "description": "menu logo | මෙනූ ලෝගෝ එක අවශ්‍යනම් වෙනස් කරන්න",
             "required": false,
-            "value": "https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg"
+            "value": "https://telegra.ph/file/03f0e013c5ea4055c159c.png"
         },
         "BOT_NAME": {
             "description": "Your Bot Name | ඔබේ Bot ගෙ නම",
             "required": false,
-            "value": "🚀NeotroX🎭"
+            "value": "🚀DINKA NADEEN BOT🎭"
         },
         "SEND_READ": {
             "description": "Bot message seen කළාද නැතිද යන්න පරිශීලකට පෙන්විය යුතුද?",
